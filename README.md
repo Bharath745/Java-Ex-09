@@ -1,4 +1,4 @@
-# Java-Ex-09
+# Java-Ex-06
 ### Write a program to add, retrieve and remove the element from the ArrayList.
 ## Aim:-
 To write a Java program to add , remove, retrieve an element in an Array.
